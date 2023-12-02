@@ -6,5 +6,5 @@ def f(N):
 count = 0
 for N in range(1, 1000):
     if 20 <= f(N) <= 50:
-        count += 1
+        count += 6
 print(count)
